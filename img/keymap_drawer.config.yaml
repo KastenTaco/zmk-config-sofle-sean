@@ -4,8 +4,8 @@ draw_config:
   split_gap: 30.0
   combo_w: 28.0
   combo_h: 26.0
-  key_rx: 6.0
-  key_ry: 6.0
+  key_rx: 7.0
+  key_ry: 5.0
   n_columns: 1
   separate_combo_diagrams: false
   combo_diagrams_scale: 2
