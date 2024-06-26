@@ -1,6 +1,6 @@
   layout:
       qmk_keyboard: sofle_rotated
-      qmk_layout: LAYOUT_split_4x6_5
+      
   svg_style: |
     /* inherit to force styles through use tags */
     svg path {
