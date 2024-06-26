@@ -36,7 +36,7 @@ If you would like to make changes to the layout, let me know. It's super straigh
 More information on what all you can do is here [ZMK Firmware](https://zmk.dev/). 
 
 This is the keyboards keymap including layer shifts:
-![keymap image](img/span.svg)
+![keymap image](img/sofle.svg)
 
 
 ______________________________________________________________________________________________
