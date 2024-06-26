@@ -39,6 +39,60 @@ This is the keyboards keymap including layer shifts:
 ![keymap image](img/sofle.svg)
 
 
+## RGB
+The keyboard comes with per key RGB lighting. 
+Be aware; the LEDs use a lot of power and will cause your battery to drain quickly.
+For a quick instruction on how hue and saturation work check out this [link](http://www.differencebetween.net/miscellaneous/difference-between-hue-and-saturation/).
+In a nutshell, you can change the color by adjusting hue. 
+By decreasing saturation, the colors will become fainter. When saturation is zero, the LEDs are white. At 100% saturation the LEDs shine in the color specified by the hue setting.
+
+To operate the LED's follow this instructions:
+
+Toggle RGB on/off:
+Enter 'raised' layer and press the right encoder.
+
+Hue Increase/Decrease:
+To increase Hue, enter the 'raised' layer and press '7'.
+To decrease Hue, enter the 'raised' layer and press 'U'.
+
+Saturation Increase/Decrease:
+To increase Saturation, enter the 'raised' layer and press '8'.
+To decrease Saturation, enter the 'raised' layer and press 'I'.
+
+Brightness Increase/Decrease:
+To increase Brightness, enter the 'raised' layer and press '9'.
+To decrease Brightness, enter the 'raised' layer and press 'O'.
+
+RGB Effect Speed Increase/Decrease:
+To increase effect speed, enter the 'raised' layer and press '0'.
+To decrease effect speed, enter the 'raised' layer and press 'P'.
+
+RGB Next/Previous Animation:
+To select the next RBT animation, enter the 'raised' layer and press the top right key on the right keyboard half (above backspace).
+To select the next RBT animation,, enter the 'raised' layer and press 'Backspace'.
+
+
+## Bluetooth Pairing
+The keyboard supports up to 5 devices. Bluetooth configuration is available in the 'raised' layer. 
+Pair device:
+To pair a device enter the 'raised' layers, and select an unused Bluetooth Profile. Profiles 0 through 4 are available on the '1','2','3','4', and '5' respectively.
+
+Connect to paired device:
+If at least one profile is paired, you can connect to the device by entering the 'raised' layer and selecting the corresponding Profile. Profiles 0 through 4 are available on the '1','2','3','4', and '5' respectively.
+
+Delete paired devices:
+To delete all bluetooth profiles enter the 'raised' layer and press the '`'-key.
+
+Optional - Bluetooth Security:
+The bluetooth connection is encrypted, however with the current configuration of the keyboard, the initial handshake when pairing is unencrypted. If the pairing handshake is captured, it can be used to decrypt all further communication. If you like, I can add a passcode entry to your pairing process in order to encrypt the pairing process. This adds an additional step for pairing, but increases security.
+
+
+## Firmware
+The firmware can be found and downloaded form the Actions Tab. It will be created automatically whenever any changes are made to this configuration. Unzip the 'firmware' file and you will find one file for the left board, and one for the right board.
+
+To flash the firmware, you will need to put the controller into bootloader mode. To do so, connect it to your computer via USB-C, then quickly press the small 'reset' button twice. The controller will then show up as removable device. Drag and drop the corresponding firmware file onto the controller. It is possible that you will see an error message as it is copied, ignore the message, the new firmware has been successfully installed. Make sure to flash both halves of the keyboard.
+
+
 ______________________________________________________________________________________________
 ## Other information
 
