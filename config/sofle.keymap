@@ -110,17 +110,17 @@
 
         raise_layer {
 // ------------------------------------------------------------------------------------------------------------
-// |BTCLR| BT1  | BT2  |  BT3  |  BT4  |  BT5 |                 |      |      |       |      |       |       |
-// |     | INS  | PSCR | GUI   |       |      |                 | PGUP |      |   ^   |      |       |       |
-// |     | ALT  | CTRL | SHIFT |       | CAPS |                 | PGDN |   <- |   v   |  ->  |  DEL  | BKSPC |
-// |     | UNDO | CUT  | COPY  | PASTE |      |      |   | RGB  |      |      |       |      |       |       |
-//              |      |       |       |      |      |   |      |      |      |       |      |
+// |BTCLR| BT1  | BT2  |  BT3  |  BT4  |  BT5 |                 |      | HUEI | SATIN | BRIIN | SPEIN |  EFF  |
+// |     | INS  | PSCR | GUI   |       |      |                 |      | HUED | SATDN | BRIDN | SPEDN |  EFR  |
+// |     | ALT  | CTRL | SHIFT |       | CAPS |                 | PGUP |      |   ^   |       |       |       |
+// |     | UNDO | CUT  | COPY  | PASTE |      |      |   | RGBT | PGDN |   <- |   v   |  ->   |  DEL  | BKSPC |
+//              |      |       |       |      |      |   |      |      |      |       |       |
             bindings = <
-&bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4                      &trans    &trans    &trans   &trans    &trans  &trans
-&trans     &kp INS      &kp PSCRN    &kp K_CMENU  &trans       &trans                            &kp PG_UP &trans    &kp UP   &trans    &kp N0  &trans
-&trans     &kp LALT     &kp LCTRL    &kp LSHFT    &trans       &kp CLCK                          &kp PG_DN &kp LEFT  &kp DOWN &kp RIGHT &kp DEL &kp BSPC
-&trans     &kp K_UNDO   &kp K_CUT    &kp K_COPY   &kp K_PASTE  &trans  &trans   &rgb_ug RGB_TOG  &trans    &trans    &trans   &trans    &trans  &trans
-                        &trans       &trans       &trans       &trans  &trans   &trans           &trans    &trans    &trans   &trans
+&bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4                      &trans     &rgb_ug RGB_HUI  &rgb_ug RGB_SAI  &rgb_ug RGB_BRI    &rgb_ug RGB_SPI  &rgb_ug RGB_EFF
+&trans     &kp INS      &kp PSCRN    &kp K_CMENU  &trans       &trans                            &trans     &rgb_ug RGB_HUD  &rgb_ug RGB_SAD  &rgb_ug RGB_BRD    &rgb_ug RGB_SPD  &rgb_ug RGB_EFR
+&trans     &kp LALT     &kp LCTRL    &kp LSHFT    &trans       &kp CLCK                          &kp PG_UP  &trans           &kp UP           &trans             &kp N0           &trans
+&trans     &kp K_UNDO   &kp K_CUT    &kp K_COPY   &kp K_PASTE  &trans  &trans   &rgb_ug RGB_TOG  &kp PG_DN  &kp LEFT         &kp DOWN         &kp RIGHT          &kp DEL          &kp BSPC
+                        &trans       &trans       &trans       &trans  &trans   &trans           &trans     &trans           &trans           &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
