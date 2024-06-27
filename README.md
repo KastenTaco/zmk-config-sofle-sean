@@ -19,7 +19,7 @@ Key Features:
 
 ## Keyboard
 
-This keyboard is designed for low-profile Kailh Choc V1 switches. Choc switches generally have shorter actuation. In short, this allows keys to activate even quicker than the classic MX switches. On top of that, low profile keys are thought to be more ergonomic. 
+This keyboard is designed for low-profile Kailh Choc V1 switches. Choc switches generally have shorter actuation. In short, this allows keys to activate even quicker than the classic MX switches. On top of that, low-profile keys are thought to be more ergonomic. 
 
 The keyboard originally came with [Kailh Choc V1 Red Pro Switches](https://www.littlekeyboards.com/products/kailh-choc-pro-low-profile-switches?variant=32328459681859). These linear switches come in at 35g of actuation force. A lightweight actuation translates to quicker keypresses and even quicker reaction times for gaming. 
 
