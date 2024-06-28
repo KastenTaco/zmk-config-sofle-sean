@@ -4,7 +4,7 @@ Sean's Sofle Keyboard
 Happy Birthday, Sean.
 
 This is the repository for your brand new [Sofle](https://github.com/josefadamcik/SofleKeyboard), a split wireless
-mechanical keyboard. Your keyboard is a wireless variant of the original Sofle. It is based on the Sofle RGB's design: [SofleChocWireless](https://github.com/josefadamcik/SofleKeyboard)
+mechanical keyboard. It's a wireless variant of the original Sofle. A variation of the Sofle RGB's design: [SofleChocWireless](https://github.com/josefadamcik/SofleKeyboard)
 
 Key Features:
  * Compatible Kailh Choc V1 low profile switches
