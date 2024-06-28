@@ -23,13 +23,13 @@ This keyboard is designed for low-profile Kailh Choc V1 switches. Choc switches 
 
 The keyboard originally came with [Kailh Choc V1 Red Pro Switches](https://www.littlekeyboards.com/products/kailh-choc-pro-low-profile-switches?variant=32328459681859). These linear switches come in at 35g of actuation force. A lightweight actuation translates to quicker keypresses and even quicker reaction times for gaming. 
 
-![keyboard image](img/seankeeb.jpg)
+![keyboard image](img/seankeeb1.jpg)
 
 ## Case
 The case is fully custom and self-designed. It comes with a gasket mount for increased comfort and best possible sound.
 The STL files for the case can be found within the repository.
 
-![keyboard image](img/seankeebback.jpg)
+![keyboard image](img/seankeeb2.jpg)
 
 ## Keymap
 If you would like to make changes to the layout, let me know. It's super straightforward and something we can do together. There are MANY features we can add. Some of those are Combos, Tap Dancing, Home Row Mods, Tap-Hold Behavior, and some elaborate Macros. 
