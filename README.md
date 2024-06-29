@@ -29,9 +29,18 @@ The keyboard originally came with [Kailh Choc V1 Red Pro Switches](https://www.l
 The case is fully custom and self-designed. It comes with a gasket mount for increased comfort and best possible sound.
 The STL files for the case can be found within the repository.
 
-The gasket mount is desgined to take 4mm Poron foam gaskets below the top plate:
+The gasket mount is desgined to take 4mm Poron foam gaskets (marked in red) below the top plate:
 
 ![keyboard image](img/seankeeb_modelgasket.png)
+
+Other than that the case is made from 4 parts. For one, the top frame and the OLED cover:
+![keyboard image](img/seankeeb_model1.png)
+
+Below that, you will find the top plate which holds the switches and lays on the gasket mount itself:
+![keyboard image](img/seankeeb_model2.png)
+
+The bottom part is the lower case of the keyboard providing enough space for a tape mod and a 2500 LiPo Battery below the PCB:
+![keyboard image](img/seankeeb_model3.png)
 
 
 
