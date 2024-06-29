@@ -95,6 +95,9 @@ The gasket mount is desgined to take 4mm Poron foam gaskets (marked in red) belo
 Other than that the case is made from 4 parts. For one, the top frame and the OLED cover:
 ![keyboard image](img/seankeeb_model1.png)
 
+ Seperate View of the top frame:
+ ![keyboard image](img/seankeeb_model4.png)
+
 Below that, you will find the top plate which holds the switches and lays on the gasket mount itself:
 ![keyboard image](img/seankeeb_model2.png)
 
