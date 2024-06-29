@@ -86,7 +86,7 @@ The keyboard supports up to 5 devices. Bluetooth configuration is available in t
 
 ## Case
 The case is fully custom and self-designed. It comes with a gasket mount for increased comfort and best possible sound.
-The STL files for the case can be found within the repository.
+The STL files for the case can be found within the stl folder.
 
 The gasket mount is desgined to take 4mm Poron foam gaskets (marked in red) below the top plate:
 
