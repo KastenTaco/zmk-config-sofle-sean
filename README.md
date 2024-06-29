@@ -25,25 +25,6 @@ This keyboard is designed for low-profile Kailh Choc V1 switches. Choc switches 
 The keyboard originally came with [Kailh Choc V1 Red Pro Switches](https://www.littlekeyboards.com/products/kailh-choc-pro-low-profile-switches?variant=32328459681859). These linear switches come in at 35g of actuation force. A lightweight actuation translates to quicker keypresses and even quicker reaction times for gaming. 
 
 
-## Case
-The case is fully custom and self-designed. It comes with a gasket mount for increased comfort and best possible sound.
-The STL files for the case can be found within the repository.
-
-The gasket mount is desgined to take 4mm Poron foam gaskets (marked in red) below the top plate:
-
-![keyboard image](img/seankeeb_modelgasket.png)
-
-Other than that the case is made from 4 parts. For one, the top frame and the OLED cover:
-![keyboard image](img/seankeeb_model1.png)
-
-Below that, you will find the top plate which holds the switches and lays on the gasket mount itself:
-![keyboard image](img/seankeeb_model2.png)
-
-The bottom part is the lower case of the keyboard providing enough space for a tape mod and a 2500 LiPo Battery below the PCB:
-![keyboard image](img/seankeeb_model3.png)
-
-
-
 ## Keymap
 If you would like to make changes to the layout, let me know. It's super straightforward and something we can do together. There are MANY features we can add. Some of those are Combos, Tap Dancing, Home Row Mods, Tap-Hold Behavior, and some elaborate Macros. 
 More information on what all you can do is here [ZMK Firmware](https://zmk.dev/). 
@@ -101,6 +82,25 @@ The keyboard supports up to 5 devices. Bluetooth configuration is available in t
 
 * Optional - Bluetooth Security:
   * The Bluetooth connection is encrypted, however, with the current configuration of the keyboard, the initial handshake when pairing is unencrypted. If the pairing handshake is captured, it can be used to decrypt all further communication. If you like, I can add a passcode entry to your pairing process to encrypt the pairing process. This adds a step for pairing but increases security.
+ 
+
+## Case
+The case is fully custom and self-designed. It comes with a gasket mount for increased comfort and best possible sound.
+The STL files for the case can be found within the repository.
+
+The gasket mount is desgined to take 4mm Poron foam gaskets (marked in red) below the top plate:
+
+![keyboard image](img/seankeeb_modelgasket.png)
+
+Other than that the case is made from 4 parts. For one, the top frame and the OLED cover:
+![keyboard image](img/seankeeb_model1.png)
+
+Below that, you will find the top plate which holds the switches and lays on the gasket mount itself:
+![keyboard image](img/seankeeb_model2.png)
+
+The bottom part is the lower case of the keyboard providing enough space for a tape mod and a 2500 LiPo Battery below the PCB:
+![keyboard image](img/seankeeb_model3.png)
+
 
 
 ## Firmware
