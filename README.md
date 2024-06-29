@@ -29,7 +29,11 @@ The keyboard originally came with [Kailh Choc V1 Red Pro Switches](https://www.l
 The case is fully custom and self-designed. It comes with a gasket mount for increased comfort and best possible sound.
 The STL files for the case can be found within the repository.
 
-![keyboard image](img/seankeeb2.jpg)
+The gasket mount is desgined to take 4mm Poron foam gaskets below the top plate:
+
+![keyboard image](img/seankeeb_modelgasket.png)
+
+
 
 ## Keymap
 If you would like to make changes to the layout, let me know. It's super straightforward and something we can do together. There are MANY features we can add. Some of those are Combos, Tap Dancing, Home Row Mods, Tap-Hold Behavior, and some elaborate Macros. 
@@ -70,6 +74,8 @@ To operate the LEDs follow these instructions:
 * RGB Next/Previous Animation:
   * To select the next RBT animation, enter the 'raised' layer and press the top right key on the right keyboard half (above backspace).
   * To select the next RBT animation, enter the 'raised' layer and press 'Backspace'.
+ 
+![keyboard image](img/seankeeb2.jpg)
 
 
 ## Bluetooth Pairing
